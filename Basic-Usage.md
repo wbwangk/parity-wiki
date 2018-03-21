@@ -1,7 +1,7 @@
 # Basic Usage
 
 
-To use Parity make sure to follow [these steps](https://wiki.parity.io/Parity-Wallet) and access Parity UI.
+To use Parity make sure to follow [these steps](https://wiki.parity.io/Parity-Wallet).
 
 ![Parity UI](images/parity-UI-0.jpg)
 
