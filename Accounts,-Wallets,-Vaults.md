@@ -17,23 +17,23 @@ Wallets are smart contracts which manage assets and can be owned by multiple acc
 Parity only allows to watch wallets and interract with them (view and sign transactions, send funds..). It does not allow to create multi-sig wallets.
 To watch a multi-sig wallet within Parity UI, open the _Accounts_ tab, click on the `+WALLET` button and select _Watch a Wallet_.
 
-![accounts-watch-wallet-0](images/wallet-0.jpg)
+![accounts-watch-wallet-0](images/account-wallet-0.jpg)
 
 In a supplemental step, enter the wallet address provided upon deployement on the blockchain, you should chose a name and description.
 
-![accounts-watch-wallet-1](images/wallet-1.jpg)
+![accounts-watch-wallet-1](images/account-wallet-1.jpg)
 
 The next step will show you an overview of the wallet parameters such as the owners, the numbre of needed signatures and the funds it contains. 
 
-![accounts-watch-wallet-2](images/wallet-2.jpg)
+![accounts-watch-wallet-2](images/account-wallet-2.jpg)
 
 Once done, the wallet will be visible in your accounts list on top of your normal accounts.
 
-![accounts-watch-wallet-3](images/wallet-3.jpg)
+![accounts-watch-wallet-3](images/account-wallet-3.jpg)
 
 Opening the wallet reveals details about available balances and transactions, as well as pending confirmations for the multi-signature transactions.
 
-![accounts-watch-wallet-4](images/wallet-4.jpg)
+![accounts-watch-wallet-4](images/account-wallet-4.jpg)
 
 
 ### Vaults
