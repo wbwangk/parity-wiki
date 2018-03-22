@@ -1,9 +1,9 @@
-_site
-*.htm
-*.xhtml
+#_site
+#*.htm
+#*.xhtml
 
-.jekyll-metadata
+#.jekyll-metadata
 
 # Ruby-related stuff, to allow you run Jekyll locally
-.bundle
-vendor
+#.bundle
+#vendor
